@@ -60,7 +60,6 @@ To complete Part II, fulfill the following requirements:
 2. Use `filter` and `map` to render out your data
 
 ### Part IV CSS
-
 1. Use flexbox to organize layout of your application
 
 ## Strech Goals
